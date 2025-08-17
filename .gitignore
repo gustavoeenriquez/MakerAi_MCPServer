@@ -1,0 +1,43 @@
+# Delphi / RAD Studio
+# ===============================================
+# History backup files
+__history/
+*.~*
+
+# Compiled files
+*.dcu
+*.dpu
+*.exe
+*.dll
+*.so
+*.bpl
+*.dcp
+*.map
+*.obj
+*.o
+*.a
+
+# Project and user-specific files
+*.local
+*.identcache
+*.proj.local
+*.dsk
+*.groupproj.local
+
+# Package files
+bpl/
+dcp/
+
+# Output directories (ajusta según tu proyecto)
+Win32/
+Win64/
+Linux64/
+Android/
+iOSDevice32/
+iOSDevice64/
+iOSSimulator/
+OSX32/
+OSX64/
+
+# Other
+.DS_Store
