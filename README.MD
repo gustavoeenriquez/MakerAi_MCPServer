@@ -1,3 +1,5 @@
+[![MSeeP.ai Security Assessment Badge](https://mseep.net/pr/gustavoeenriquez-makerai-mcpserver-badge.png)](https://mseep.ai/app/gustavoeenriquez-makerai-mcpserver)
+
 # MakerAi MCP Server for Delphi
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/gustavoeenriquez/MakerAi_MCPServer/blob/main/LICENSE)
